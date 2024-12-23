@@ -53,6 +53,6 @@ Nous nous réservons le droit de mettre à jour cette Politique de Confidentiali
 
 # 8. Contact
 Pour toute question ou préoccupation concernant cette Politique de Confidentialité, veuillez nous contacter :
-# E-mail : pacomecuma2.0@gmail.com
+**E-mail : pacomecuma2.0@gmail.com**
 
 En utilisant **Assistance Bible**, vous acceptez les termes de cette Politique de Confidentialité.
